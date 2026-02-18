@@ -41,6 +41,15 @@ AI-FRIEND is an AI-powered assistant application designed to help users with a v
 python AI-Friend-master/app.py
 ```
 
+## Screenshots
+
+Below are some screenshots of the AI-FRIEND application in action:
+
+| Home Page | Chat Interface | Data Collection |
+|-----------|---------------|----------------|
+| ![Home](AI-Friend-master/screenshots/Screenshot%202025-05-17%20015738.png) | ![Chat](AI-Friend-master/screenshots/Screenshot%202025-05-17%20015752.png) | ![Data](AI-Friend-master/screenshots/Screenshot%202025-05-17%20015808.png) |
+| ![Data Preprocessing](AI-Friend-master/screenshots/Screenshot%202025-05-17%20015817.png) | ![Training](AI-Friend-master/screenshots/Screenshot%202025-05-17%20015828.png) | ![Results](AI-Friend-master/screenshots/Screenshot%202025-05-17%20020513.png) |
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
