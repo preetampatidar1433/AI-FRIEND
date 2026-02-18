@@ -2,6 +2,11 @@
 
 AI-FRIEND is an AI-powered assistant application designed to help users with a variety of tasks, including data collection, text processing, and more. It leverages modern machine learning and natural language processing technologies.
 
+## Badges
+
+![MIT License](https://img.shields.io/badge/license-MIT-green.svg)
+![Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)
+
 ## Features
 - AI-powered chat and support
 - Data collection and preprocessing tools
