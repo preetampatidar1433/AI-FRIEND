@@ -1,0 +1,6 @@
+# Development requirements for AI-FRIEND
+
+# Add any development-only dependencies here
+pytest
+flake8
+black
